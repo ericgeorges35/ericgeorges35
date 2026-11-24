@@ -3,7 +3,7 @@ Consultant en amélioration des processus et développeur Excel VBA.
 
 Mes domaines d'expertise
 https://img.shields.io/badge/Excel-VBA-green
-Développement Excel VBA avancé
+Développement https://img.shields.io/badge/Excel-VBA-greenExcel VBA avancé
 Automatisation des processus métiers
 Ordonnancement et planification
 Optimisation des ressources
