@@ -9,18 +9,19 @@ Optimisation des ressources
 Tableaux de bord décisionnels
 Power Query
 Power Pivot
+
 Projets en cours
 Gestion dynamique d'alvéoles
 Affectation automatique de ressources
 Outils de planification industrielle
 Systèmes d'ordonnancement sous Excel
+
 Technologies
 Excel VBA
 SQL
 Power Query
 Power Pivot
 Git / GitHub
-Contact
 <!--
 **ericgeorges35/ericgeorges35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
