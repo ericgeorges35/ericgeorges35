@@ -1,4 +1,5 @@
 Bonjour, je suis Eric
+
 Consultant en amélioration des processus et développeur Excel VBA.
 
 Compétences
