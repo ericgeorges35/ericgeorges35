@@ -2,6 +2,7 @@
 Consultant en amélioration des processus et développeur Excel VBA.
 
 Mes domaines d'expertise
+
 Développement Excel VBA avancé
 Automatisation des processus métiers
 Ordonnancement et planification
@@ -11,12 +12,14 @@ Power Query
 Power Pivot
 
 Projets en cours
+
 Gestion dynamique d'alvéoles
 Affectation automatique de ressources
 Outils de planification industrielle
 Systèmes d'ordonnancement sous Excel
 
 Technologies
+
 Excel VBA
 SQL
 Power Query
