@@ -2,7 +2,11 @@ Bonjour, je suis Eric
 Consultant en amélioration des processus et développeur Excel VBA.
 
 Compétences
-Excel VBAPower QueryPower PivotSQLGitHub
+Excel VBA
+Power Query
+Power Pivot
+SQL
+GitHub
 
 Mes domaines d'expertise
 Développement Excel VBA avancé
