@@ -3,8 +3,8 @@ Consultant en amélioration des processus et développeur Excel VBA.
 
 Compétences : 
 
-https://img.shields.io/badge/Excel-VBA-green?logo=microsoft-excel 
-https://img.shields.io/badge/Power_Query-blue https://img.shields.io/badge/Power_Pivot-blue 
+https://img.shields.io/badge/Excel-VBA-green?logo=microsoft-excel
+https://img.shields.io/badge/Power_Query-blue https://img.shields.io/badge/Power_Pivot-blue
 https://img.shields.io/badge/SQL-orange https://img.shields.io/badge/GitHub-black?logo=github
 
 Mes domaines d'expertise
